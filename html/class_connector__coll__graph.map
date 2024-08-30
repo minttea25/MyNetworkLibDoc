@@ -1,0 +1,7 @@
+<map id="Connector" name="Connector">
+<area shape="rect" id="Node000001" title="Connector is a class to use connecting to other end point." alt="" coords="37,171,118,197"/>
+<area shape="rect" id="Node000002" href="$class_i_o_c_p_object.html" title="It is a class that contains IOCP handle and how to process the completed tasks." alt="" coords="31,96,124,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,138,80,170,75,170,75,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,150,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,64,80,95,75,95,75,64"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IOCPObject" name="IOCPObject">
+<area shape="rect" id="Node000001" title="It is a class that contains IOCP handle and how to process the completed tasks." alt="" coords="31,96,124,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,150,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,64,80,95,75,95,75,64"/>
+</map>

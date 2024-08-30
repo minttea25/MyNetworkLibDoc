@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,107,172,133"/>
+<area shape="rect" id="Node000001" href="$class_a_job_serializer.html" title="AJobSerializer is an abstract class providing to serialize jobs." alt="" coords="220,5,325,32"/>
+<area shape="poly" id="edge7_Node000000_Node000001" title=" " alt="" coords="124,96,218,42,241,30,243,35,221,46,127,101"/>
+<area shape="rect" id="Node000003" href="$class_i_o_c_p_core.html" title="IOCPCore class is a class that wraps I/O Completion Port (IOCP),." alt="" coords="231,56,314,83"/>
+<area shape="poly" id="edge9_Node000000_Node000003" title=" " alt="" coords="154,99,230,78,232,83,155,105"/>
+<area shape="rect" id="Node000004" href="$class_i_o_c_p_object.html" title="It is a class that contains IOCP handle and how to process the completed tasks." alt="" coords="226,107,318,133"/>
+<area shape="poly" id="edge10_Node000000_Node000004" title=" " alt="" coords="187,117,226,117,226,123,187,123"/>
+<area shape="rect" id="Node000010" href="$class_job.html" title="Job class for JobSerializer." alt="" coords="251,157,294,184"/>
+<area shape="poly" id="edge15_Node000000_Node000010" title=" " alt="" coords="155,136,252,162,250,168,154,141"/>
+<area shape="rect" id="Node000011" href="$class_send_buffer.html" title="Each thread has Sendbuffer." alt="" coords="230,208,315,235"/>
+<area shape="poly" id="edge16_Node000000_Node000011" title=" " alt="" coords="127,139,221,194,243,205,241,210,218,198,124,144"/>
+<area shape="rect" id="Node000002" href="$class_job_serializer.html" title="JobSerializer is a base class using GlobalJobWorker in library as reserve jobs." alt="" coords="390,5,487,32"/>
+<area shape="poly" id="edge8_Node000001_Node000002" title=" " alt="" coords="340,16,390,16,390,21,340,21"/>
+<area shape="rect" id="Node000005" href="$class_connector.html" title="Connector is a class to use connecting to other end point." alt="" coords="398,56,479,83"/>
+<area shape="poly" id="edge11_Node000004_Node000005" title=" " alt="" coords="332,99,397,79,398,84,334,104"/>
+<area shape="rect" id="Node000006" href="$class_listener.html" title="Listener is a class to wait external connection. (bind / listen)" alt="" coords="405,107,472,133"/>
+<area shape="poly" id="edge12_Node000004_Node000006" title=" " alt="" coords="334,117,405,117,405,123,334,123"/>
+<area shape="rect" id="Node000007" href="$class_session.html" title=" " alt="" coords="404,157,473,184"/>
+<area shape="poly" id="edge13_Node000004_Node000007" title=" " alt="" coords="334,136,405,158,403,163,333,141"/>
+<area shape="rect" id="Node000008" href="$classabstract.html" title="JobWorker provides templates to implement methods of processing serialized&#45;jobs." alt="" coords="552,187,621,213"/>
+<area shape="poly" id="edge14_Node000007_Node000008" title=" " alt="" coords="488,178,553,191,551,196,487,183"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="373,208,504,251"/>
+<area shape="poly" id="edge17_Node000009_Node000008" title=" " alt="" coords="519,211,551,204,552,209,520,216"/>
+</map>

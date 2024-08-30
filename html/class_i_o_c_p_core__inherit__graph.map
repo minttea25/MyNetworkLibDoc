@@ -1,0 +1,5 @@
+<map id="IOCPCore" name="IOCPCore">
+<area shape="rect" id="Node000001" title="IOCPCore class is a class that wraps I/O Completion Port (IOCP),." alt="" coords="33,96,116,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,144,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,64,77,95,72,95,72,64"/>
+</map>
